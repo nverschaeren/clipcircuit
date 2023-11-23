@@ -27,3 +27,6 @@ When you put your mouse on top of a component on the canvas you can:
 
 # to do
 For now i took screen-shots and used the images in the Dutch manual available. Final idea is to add an optional menu to save a canvas in local-storage and open it again later.
+
+# Other languages
+Please let me know when you created a translation of the original manual so I can add them to this repositiory.
