@@ -1,0 +1,188 @@
+1. Basiscircuit
+2. Magnetisch geactiveerde lamp
+3. Elektrische motor
+4. Magnetisch geactiveerde motor
+5. Lamp en motor in serie (achter elkaar)
+6. Lamp en motor in parallel (naast elkaar)
+7. Gloeiende LED (Light Emitting Diode)
+8. Geleiding verkeerd om
+9. Geleiding tester
+10. magneetschakelaar  Circuit
+11. Alternatief magneetschakelaar  circuit
+12. Variabel licht (lamp)
+13. variabele motor
+14. Helikopter
+15. Ventilator
+16. Batterijen in serie aansluiten
+17. Batterijen parallel aansluiten
+18. Schakelaar geactiveerde deurbel
+19. Magnetisch geactiveerde deurbel
+20. Door licht geactiveerde deurbel
+21. Door water geactiveerde deurbel
+22. Geluidsgestuurde deurbel
+23. Beweging geactiveerde deurbel
+24. Licht geactiveerde LED
+25. Regen alarm
+26. Geluid geactiveerde LED
+27. Beweging geactiveerde LED
+28. Licht geactiveerde lamp
+29. Water geactiveerde lamp
+30. Klap schakelaar
+31. Beweging geactiveerde lamp
+32. De zingende motor
+33. Muziek en lamp
+34. Magnetisch geactiveerde muziek en lamp
+35. Door licht geactiveerde muziek en lamp
+36. Water geactiveerde muziek en lamp
+37. Beweging geactiveerde muziek en lamp
+38. licht geactiveerde zoemer
+39. Politie Sirene
+40. Machinegeweer
+41. Brandweer sirene
+42. Ambulance sirene
+43. Spelcomputer geluid
+44. Knipperende LED
+45. Knipperende lamp
+46. Politie Sirene met Licht (Lamp)
+47. Machinegeweer met licht (lamp)
+48. Brandweer sirene met licht (lamp)
+49. Ambulance-sirene met licht (lamp)
+50. Elektronisch spelcomputer geluid met licht (lamp)
+51. Licht geactiveerde politie sirene
+52. Licht geactiveerd machinegeweer
+53. Licht geactiveerde brandweer sirene
+54. Licht geactiveerde ambulance sirene
+55. Licht geactiveerd spelcomputer geluid
+56. Handmatig geactiveerd elektronisch spel geluid
+57. Magnetisch geactiveerd elektronisch spel geluid
+58. Licht geactiveerd elektronisch spel geluid
+59. Door aanraking geactiveerd elektronisch spel geluid
+60. Licht geactiveerde LED
+61. Water geactiveerde LED
+62. Water geactiveerde lamp
+63. Licht geactiveerde lamp
+64. Handmatig geactiveerd licht en geluid
+65. Magnetisch geactiveerd licht en geluid
+66. Licht geactiveerd licht en geluid
+67. Door water geactiveerd licht en geluid
+68. Licht geactiveerde Motor
+69. Door aanraking gestuurde motor
+70. Lamp aan en uit zetten door aanraken
+71. Licht geactiveerde lamp
+72. Magnetisch geactiveerd geluid en motor
+73. Licht geactiveerd geluid en motor
+74. Aanraken Geactiveerd geluid en motor
+75. licht geactiveerde muzikale sirene
+76. Licht geactiveerd muziek machinegeweer
+77. Licht geactiveerde muzikale brandweersirene
+78. Licht geactiveerde muzikale ambulance sirene
+79. Door licht geactiveerde muzikale spelgeluiden
+80. Door water geactiveerde muzikale sirene
+81. Water geactiveerd muziek machinegeweer
+82. Water geactiveerde muzikale brandsirene
+83. Water geactiveerde muzikale ambulance sirene
+84. Water geactiveerd muzikaal spel geluid
+85. Geluid geactiveerde muzikale sirene
+86. Geluidsgeactiveerd muzikaal machinegeweer
+87. Geluids geactiveerde muzikale brandweer sirene
+88. Geluidsgestuurde muzikale ambulance sirene
+89. Geluidsgeactiveerd muzikaal spel geluid
+90. Beweging geactiveerde muzikale sirene
+91. Beweging geactiveerd muzikaal machinegeweer
+92. Beweging-geactiveerde muzikale brandweer sirene
+93. Beweging geactiveerde muzikale ambulance sirene
+94. Beweging geactiveerd muzikaal spel geluid
+95. Knipperende LED -waterdetector
+96. Licht geactiveerde LED
+97. Geluid geactiveerde knipperende LED
+98. Beweging geactiveerd knipperende LED
+99. Geluidsgestuurde lamp
+100. Beweging geactiveerde lamp
+101. Knipperende Lamp Water Detector
+102. Licht geactiveerde knipperlamp
+103. geluid geactiveerde LED
+104. Geluidsgestuurde lamp
+105. Geluid geactiveerde spel geluiden
+106. Bewegings geactiveerd spel geluid
+107. Door beweging geactiveerde LED
+108. Beweging geactiveerde lamp
+109. Maak verschillende geluidseffecten
+110. Knipperende lamp of LED
+111. Aanraak geluidseffecten en lamp
+112. Pulserend geluid en licht
+113. Pulserende LED  en lamp
+114. (AND) EN poort
+115. (OR) OF-poort
+116. (NOT) NIET-poort
+117. (NAND) NEN-poort (NIET-EN)
+118. (NOR) NOF-poort (NIET-OF)
+119. Schakelaar geactiveerd licht met machinegeweer geluid
+120. Door schakelaar geactiveerd zwaar machinegeweer geluid
+121. Schakelaar geactiveerd crash geluid
+122. Schakelaar geactiveerd lachgeluid
+123. Magnetisch geactiveerde politie sirene
+124. Magnetisch geactiveerd machinegeweer geluid
+125. magnetisch geactiveerde brandweer sirene
+126. Magnetisch geactiveerde ambulance sirene
+127. Magnetisch geactiveerd elektronisch spel geluid
+128. Magnetisch geactiveerd licht en machinegeweer geluid
+129. Magnetisch geactiveerd zwaar machinegeweer geluid
+130. Magnetisch geactiveerd crash geluid
+131. Magnetisch geactiveerd lachgeluid
+132. Magnetisch geactiveerde LED
+133. Magnetisch geactiveerde lamp
+134. Schakelaar geactiveerde lamp en licht machinegeweer geluid
+135. Schakel geactiveerde lamp en zwaar machinegeweer geluid
+136. Schakelaar geactiveerde lamp en crash geluid
+137. Schakel geactiveerde lamp en lachgeluid
+138. Magnetisch geactiveerde lamp en lachgeluid
+139. Magnetisch geactiveerde lamp en machinegeweer geluid
+140. Magnetisch geactiveerde lamp en brandweer sirene
+141. Magnetisch geactiveerde lamp en ambulance sirene
+142. Magnetisch geactiveerde lamp en elektronisch spel geluid
+143. Magnetisch geactiveerde lamp en geluid van een licht Machinegeweer
+144. Magnetisch geactiveerde lamp en geluid van een zwaar machinegeweer
+145. Magnetisch geactiveerde lamp en crash geluid
+146. Magnetisch geactiveerde lamp en lach geluid
+147. Licht geactiveerd licht machinegeweer geluid
+148. Licht geactiveerd zwaar machinegeweer geluid
+149. Licht geactiveerd crash geluid
+150. door licht geactiveerd lachgeluid
+151. Met schakelaar geactiveerde spelgeluiden, lamp en LED
+152. Magnetisch geactiveerde spel geluiden, lamp en LED
+153. Door licht geactiveerde spel geluiden, lamp en LED
+154. Aanraking geactiveerde spelgeluiden, lamp en led
+155. Schakelaar-geactiveerde spelgeluiden en LED
+156. Magnetisch geactiveerde spelgeluiden en LED
+157. Door licht geactiveerde spelgeluiden en LED
+158. Aanraking geactiveerde Muziek en LED
+159. Licht geactiveerd licht machinegeweer geluid
+160. licht geactiveerd zwaar machinegeweer geluid
+161. Door licht geactiveerd lachgeluid
+162. Water geactiveerd licht machinegeweer geluid
+163. Water geactiveerd zwaar machinegeweer geluid
+164. Door water geactiveerd lach geluid
+165. geluid geactiveerd licht machinegeweer geluid
+166. Geluid geactiveerd zwaar machinegeweer geluid
+167. Geluid geactiveerd lachgeluid
+168. Beweging geactiveerd licht machinegeweer geluid
+169. Beweging geactiveerd zwaar machinegeweer geluid
+170. Beweging geactiveerd lach geluid
+171. Schakelaar geactiveerde politie sirene
+172. Schakelaar geactiveerd machinegeweer geluid
+173. Schakel geactiveerde brandweer sirene
+174. Schakelaar geactiveerde ambulance sirene
+175. Schakelaar geactiveerd elektronisch spel geluid
+176. Magnetisch geactiveerde politie sirene
+177. Magnetisch geactiveerd machinegeweer geluid
+178. Magnetisch geactiveerde brandweer sirene
+179. Magnetisch geactiveerde ambulance sirene
+180. Magnetisch geactiveerd elektronisch spel geluid
+181. Geluid geactiveerde LED
+182. Magnetisch geactiveerde LED
+183. Geluidsgestuurde lamp
+184. Magnetisch geactiveerde lamp
+185. Schakelaar geactiveerde geluiden
+186. Schakelaar geactiveerd crash geluid
+187. Schakelaar geactiveerd lachgeluid
+188. Magnetisch geactiveerde lachgeluiden
