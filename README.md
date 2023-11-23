@@ -25,6 +25,8 @@ When you put your mouse on top of a component on the canvas you can:
 - rotate it 90 degrees by clicking the rotate button
 - move it on the canvas (grid) by holding your mouse down on the drag symbol and more it arround
 
+The whole background is a text-field, so click in the white background and type the text you want to add to the image before taking a screen-shot.
+
 # to do
 For now i took screen-shots and used the images in the Dutch manual available. Final idea is to add an optional menu to save a canvas in local-storage and open it again later.
 
