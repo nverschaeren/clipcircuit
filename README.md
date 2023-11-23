@@ -22,7 +22,7 @@ After trying a few translations options from scans i decided i needed to re-crea
 This project contains a html document where you can drag and drop the different clip-circuit components to your canvas and re-create the different setups from the manual, but also create your own custom ones.
 
 # how it works
-Open the index.html file in your browser. In the site menu on the right you will find al components. Click a component to add it to the canvas. Clicking a component on the canvas will bring it on top of all other components.
+Open the [index.html](creator/index.html) file in your browser. In the site menu on the right you will find al components. Click a component to add it to the canvas. Clicking a component on the canvas will bring it on top of all other components.
 
 When you put your mouse on top of a component on the canvas you can:
 - delete it from canvas by clicking the X
@@ -30,6 +30,8 @@ When you put your mouse on top of a component on the canvas you can:
 - move it on the canvas (grid) by holding your mouse down on the drag symbol and more it arround
 
 The whole background is a text-field, so click in the white background and type the text you want to add to the image before taking a screen-shot (used to add the A B C characters that the text within the manual will refer to).
+
+![Creator screenshot](print/creator_screenshot.png)
 
 # to do
 For now i took screen-shots and used the images in the re-recreated Dutch manual. Final idea is to add an optional menu to save a canvas in local-storage and open it again later.
